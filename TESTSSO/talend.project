@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_rrk74VjIEeqQwrmU8zaaKQ" label="TestSSO" description="" language="java" technicalLabel="TESTSSO" creationDate="2020-02-26T19:44:45.000+0000" author="_rrk74ljIEeqQwrmU8zaaKQ" productVersion="Talend Data Fabric-7.2.1.20200102_0817-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/TestGITCloud/TestSSORepo&quot;,&quot;login&quot;:&quot;kalsbar&quot;,&quot;passwd&quot;:&quot;hxHVtdndhIH3XpGLILFh2g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_rrk74VjIEeqQwrmU8zaaKQ" label="TestSSO" description="" language="java" technicalLabel="TESTSSO" creationDate="2020-02-26T19:44:45.000+0000" author="_rrk74ljIEeqQwrmU8zaaKQ" productVersion="Talend Data Fabric-7.2.1.20200102_0817-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/TestGITCloud/TestSSORepo&quot;,&quot;login&quot;:&quot;kalsbar&quot;,&quot;passwd&quot;:&quot;hxHVtdndhIH3XpGLILFh2g==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_r6rH0FjIEeqQwrmU8zaaKQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_rrk74ljIEeqQwrmU8zaaKQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_0ZjYoFjIEeqQwrmU8zaaKQ" login="dev1@company.com" firstName="dev1" lastName="dev1" type="DI" additionnalData="{}"/>
 </xmi:XMI>
